@@ -9,7 +9,7 @@
   *Gets question from a csv file based on passed id and returns it.*
     
  * PUT /quiz/calculate
-   *Gets answerDto and checks answerDto corectness.*
+   *Gets answerDto and checks answer corectness.*
  * POST /quiz/report
  *Makes pdf which contains quiz results.*
  
